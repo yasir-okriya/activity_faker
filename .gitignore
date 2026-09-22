@@ -2,3 +2,5 @@
 __pycache__/
 *.py[cod]
 activity_research.log
+lab/captures/
+.DS_Store
